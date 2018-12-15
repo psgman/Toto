@@ -1,2 +1,2 @@
 # Toto
-Ici c'est paris!
+Toto
